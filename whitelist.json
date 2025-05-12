@@ -1,6 +1,6 @@
-{
-     "popbrosu",
-     "averagegonerblox",
-     "REAL_ANDREAS1",
-     "TriPoleX6",
+local whitelist = {
+    "TriPoleX6",  
+    "REAL_ANDREAS1",  
+    "popbrosu",  
+    "averagegonerblox",
 }
