@@ -1,6 +1,1 @@
-local whitelist = {
-    "TriPoleX6",  
-    "REAL_ANDREAS1",  
-    "popbrosu",  
-    "averagegonerblox"
-}
+["popbrosu", "REAL_ANDREAS1", "TriPoleX6", "averagegonerblox"]
